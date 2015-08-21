@@ -1,0 +1,14 @@
+{
+    "name": "newup-playground/workbench",
+    "description": "Recreates Laravel 4's workbench functionality using NewUp",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johnathon Koster",
+            "email": "john@stillat.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "_newup_vendor"
+    }
+}
