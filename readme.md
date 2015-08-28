@@ -1,5 +1,7 @@
 # NewUp Playground: Workbench
 
+[![Latest Stable Version](https://poser.pugx.org/newup-playground/workbench/v/stable)](https://packagist.org/packages/newup-playground/workbench) [![Total Downloads](https://poser.pugx.org/newup-playground/workbench/downloads)](https://packagist.org/packages/newup-playground/workbench) [![Latest Unstable Version](https://poser.pugx.org/newup-playground/workbench/v/unstable)](https://packagist.org/packages/newup-playground/workbench) [![License](https://poser.pugx.org/newup-playground/workbench/license)](https://packagist.org/packages/newup-playground/workbench)
+
 This playground recreates the [workbench](https://github.com/laravel/framework/tree/4.2/src/Illuminate/Workbench) functionality from Laravel 4.2 using the NewUp package generator.
 
 ## Using The Playground
